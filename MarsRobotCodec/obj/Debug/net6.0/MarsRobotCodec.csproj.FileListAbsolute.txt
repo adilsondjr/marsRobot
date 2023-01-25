@@ -1,0 +1,15 @@
+D:\mars\MarsRobotCodec\MarsRobotCodec\bin\Debug\net6.0\MarsRobotCodec.exe
+D:\mars\MarsRobotCodec\MarsRobotCodec\bin\Debug\net6.0\MarsRobotCodec.deps.json
+D:\mars\MarsRobotCodec\MarsRobotCodec\bin\Debug\net6.0\MarsRobotCodec.runtimeconfig.json
+D:\mars\MarsRobotCodec\MarsRobotCodec\bin\Debug\net6.0\MarsRobotCodec.dll
+D:\mars\MarsRobotCodec\MarsRobotCodec\bin\Debug\net6.0\MarsRobotCodec.pdb
+D:\mars\MarsRobotCodec\MarsRobotCodec\obj\Debug\net6.0\MarsRobotCodec.csproj.AssemblyReference.cache
+D:\mars\MarsRobotCodec\MarsRobotCodec\obj\Debug\net6.0\MarsRobotCodec.GeneratedMSBuildEditorConfig.editorconfig
+D:\mars\MarsRobotCodec\MarsRobotCodec\obj\Debug\net6.0\MarsRobotCodec.AssemblyInfoInputs.cache
+D:\mars\MarsRobotCodec\MarsRobotCodec\obj\Debug\net6.0\MarsRobotCodec.AssemblyInfo.cs
+D:\mars\MarsRobotCodec\MarsRobotCodec\obj\Debug\net6.0\MarsRobotCodec.csproj.CoreCompileInputs.cache
+D:\mars\MarsRobotCodec\MarsRobotCodec\obj\Debug\net6.0\MarsRobotCodec.dll
+D:\mars\MarsRobotCodec\MarsRobotCodec\obj\Debug\net6.0\refint\MarsRobotCodec.dll
+D:\mars\MarsRobotCodec\MarsRobotCodec\obj\Debug\net6.0\MarsRobotCodec.pdb
+D:\mars\MarsRobotCodec\MarsRobotCodec\obj\Debug\net6.0\MarsRobotCodec.genruntimeconfig.cache
+D:\mars\MarsRobotCodec\MarsRobotCodec\obj\Debug\net6.0\ref\MarsRobotCodec.dll
